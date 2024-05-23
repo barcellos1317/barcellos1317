@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 💙💙
+![gifs-de-anime-aesthetic-49](https://github.com/barcellos1317/barcellos1317/assets/170526379/89f11cc1-556a-4963-93dc-aa8ba96020ee)## Boas vindas ao meu perfil 💙💙
 
 | Meu nome é Giovanna Barcellos |
 
@@ -11,6 +11,28 @@
 giovanna.barcellos1317@gmail.com
 
 @barcellos1317
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **barcellos1317/barcellos1317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
