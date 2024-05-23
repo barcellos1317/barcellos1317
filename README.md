@@ -1,12 +1,12 @@
-![gifs-de-anime-aesthetic-49](https://github.com/barcellos1317/barcellos1317/assets/170526379/89f11cc1-556a-4963-93dc-aa8ba96020ee)## Boas vindas ao meu perfil 💙💙
+![gifs-de-anime-aesthetic-49](https://github.com/barcellos1317/barcellos1317/assets/170526379/89f11cc1-556a-4963-93dc-aa8ba96020ee)## **Boas vindas ao meu perfil 💙💙**
 
-| Meu nome é Giovanna Barcellos |
+**| Meu nome é Giovanna Barcellos |**
 
 - Estou estudando na Alura;
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 👋
 
-| Você pode entrar em contato comigo 📫 |
+**| Você pode entrar em contato comigo 📫 |**
 
 giovanna.barcellos1317@gmail.com
 
